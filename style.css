@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Roboto+Serif:opsz@8..144&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Serif', serif;
+}
+
+header {
+    background-color: #040D12;
+}
+
+.logo {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.logoamg {
+    padding: 30px;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+    padding: 50px 0 100px 0;
+    font-weight: 400;
+}
+
+footer {
+    background-color: #93B1A6;
+    color: white;
+    padding: 30px;
+}
+
+ a {
+    color: white; 
+    text-decoration: none;
+ }
